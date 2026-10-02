@@ -233,6 +233,12 @@ body {
   color: var(--text-primary);
 }
 
+.link-portfolio {
+  color: var(--text-primary);
+  font-weight: 500;
+  font-size: 14px;
+}
+
 .flip-hint-back {
   align-self: flex-start;
 }
